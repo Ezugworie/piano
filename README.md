@@ -1,4 +1,4 @@
-# Keyboard App
+# Piano App
 
 
 ## Available Scripts

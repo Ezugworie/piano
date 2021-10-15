@@ -1,0 +1,8 @@
+.white--key {
+  @apply h-56 w-14 bg-gray-50 border btn text-gray-500 glass items-end border-gray-400 shadow rounded-btn;
+}
+
+.black--key {
+  @apply h-36 border bg-gray-900 z-50 w-10 btn items-end border-gray-400 shadow rounded-btn -mx-3;
+
+}
